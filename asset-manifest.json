@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PixelShow-reactapp/static/css/main.f372cb3c.css",
+    "main.js": "/PixelShow-reactapp/static/js/main.6eb186b6.js",
+    "index.html": "/PixelShow-reactapp/index.html",
+    "main.f372cb3c.css.map": "/PixelShow-reactapp/static/css/main.f372cb3c.css.map",
+    "main.6eb186b6.js.map": "/PixelShow-reactapp/static/js/main.6eb186b6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f372cb3c.css",
+    "static/js/main.6eb186b6.js"
+  ]
+}
